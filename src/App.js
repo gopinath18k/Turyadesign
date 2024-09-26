@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Accessories } from './Component/Accessories/Accessories';
+// import { Accessories } from './Component/Accessories/Accessories';
+import { Tables } from './Component/Tables/Tables';
 // import { Menu } from './Component/Newfile/Menu';
 // import { Drawers } from './Component/Drawers/Drawers';
 
@@ -9,7 +10,8 @@ function App() {
     <div className="App">
     {/* <Menu/> */}
     {/* <Drawers/> */}
-    <Accessories/>
+    {/* <Accessories/> */}
+    <Tables/>
     </div>
   );
 }
