@@ -1,0 +1,320 @@
+/* First Row Container */
+
+.turyadesign-Accessories-container{
+    padding-top: 50px;
+    overflow: hidden;
+}
+.turyaAccessories-Tray-Firstcolumn, .turyaAccessories-Tray-Secondcolumn{
+    padding: 0;
+    margin: 0;
+}
+.turyaAccessories-Tray-Secondcolumn{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.TuryaAccessories-Heading h1{
+    text-align: start;
+    padding-left: 15px;
+}
+.TuryaAccessories-Tray-first-one,.TuryaAccessories-Tray-first-two,.TuryaAccessories-Tray-first-oneplus,.TuryaAccessories-Tray-first-three{
+    text-align: center;
+}
+.TuryaAccessories-Tray-first-one{
+    margin-top: 120px;
+}
+
+.TuryaAccessories-Tray-first-one img{
+    width: 70%;
+    height: auto;
+}
+.TuryaAccessories-Tray-first-oneplus img{
+    width: 70%;
+    height: auto;
+}
+.TuryaAccessories-Tray-first-two img{
+    width: 70%;
+    height: auto;
+}
+.TuryaAccessories-Tray-first-three img{
+    width: 70%;
+    height: auto;
+}
+
+
+.TuryaAccessories-Tray-second-one,.TuryaAccessories-Tray-second-two,.TuryaAccessories-Tray-second-three{
+    text-align: center;
+}
+.TuryaAccessories-Tray-second-one img{
+    width: 70%;
+    height: auto;
+}
+.TuryaAccessories-Tray-second-two img{
+    width: 70%;
+    height: auto;
+}
+.TuryaAccessories-Tray-second-three img{
+    width: 70%;
+    height: auto;
+}
+
+
+/* Second Row Container */
+
+.TuryaAccessories-Secondrow-Firstone-container{
+    text-align: center;
+    
+}
+.TuryaAccessories-Secondrow-Firsttwo-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+.TuryaAccessories-Secondrow-Second-container{
+    align-self: center;
+    text-align: center;
+    padding: 0px;
+}
+.TuryaAccessories-Secondrow-Third-container{
+    text-align: center;
+}
+.TuryaAccessories-Firstone-inner-container{
+    text-align: center;
+}
+.TuryaAccessories-Firstone-inner-container img{
+    width: 90%;
+    height: auto;
+}
+
+.TuryaAccessories-secondone-inner-container img{
+    width: 100%;
+    height: auto;
+}
+.TuryaAccessories-Thirdone-inner-container img{
+    width: 90%;
+    height: auto;
+}
+
+
+/* Third Row Inner First Container */
+
+
+.turyaAccessories-ThirdRow-Firstcolumn, .turyaAccessories-ThirdRow-Secondcolumn{
+    padding: 0;
+    margin: 0;
+}
+
+.turyaAccessories-ThirdRow-Secondcolumn{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.TuryaAccessories-Thirdrow-first-one,.TuryaAccessories-Thirdrow-first-two,.TuryaAccessories-Thirdrow-first-three{
+    text-align: center;
+}
+
+.TuryaAccessories-Thirdrow-first-one img{
+    width: 100%;
+    height: auto;
+}
+
+.TuryaAccessories-Thirdrow-first-two img{
+    width: 70%;
+    height: auto;
+}
+
+.TuryaAccessories-Thirdrow-second-one,.TuryaAccessories-Thirdrow-second-two,.TuryaAccessories-Thirdrow-second-three{
+    text-align: center;
+}
+.TuryaAccessories-Thirdrow-second-one img{
+    width: 50%;
+    height: auto;
+}
+.TuryaAccessories-Thirdrow-second-two img{
+    width: 80%;
+    height: auto;
+}
+.TuryaAccessories-Thirdrow-second-three img{
+    width: 60%;
+    height: auto;
+}
+
+/* Thrid row Inner Second Container */
+
+
+.turyaAccessories-ThirdRows-Firstcolumn, .turyaAccessories-ThirdRows-Secondcolumn{
+    padding: 0;
+    margin: 0;
+}
+
+.turyaAccessories-ThirdRows-Secondcolumn{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.TuryaAccessories-Thirdrows-first-one,.TuryaAccessories-Thirdrows-first-two,.TuryaAccessories-Thirdrows-first-three{
+    text-align: center;
+}
+
+.TuryaAccessories-Thirdrows-first-one img{
+    width: 100%;
+    height: auto;
+}
+
+.TuryaAccessories-Thirdrows-first-two img{
+    width: 60%;
+    height: auto;
+}
+
+.TuryaAccessories-Thirdrows-second-one,.TuryaAccessories-Thirdrows-second-two,.TuryaAccessories-Thirdrows-second-three{
+    text-align: center;
+}
+.TuryaAccessories-Thirdrows-second-one img{
+    width: 75%;
+    height: auto;
+}
+.TuryaAccessories-Thirdrows-second-two img{
+    width: 60%;
+    height: auto;
+}
+.TuryaAccessories-Thirdrows-second-three img{
+    width: 60%;
+    height: auto;
+}
+
+
+
+
+/* Next Arrow Container */
+
+.TuryaAccessories-NextArrow-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding-right: 15px;
+    gap: 10px;
+}
+.TuryaAccessories-Next-Heading{
+    font-size: 18px;
+    font-weight: 400;
+}
+.TuryaAccessories-Next-Arrow-img{
+    width: 3%;
+    height: auto;
+    padding-bottom: 8px;
+}
+
+
+
+
+/* Media Query */
+
+@media (max-width: 500px){
+
+    .turyaAccessories-Tray-Firstcolumn, .turyaAccessories-Tray-Secondcolumn{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    /* First Row Container */
+
+    .TuryaAccessories-Tray-first-one{
+        margin-top: 0px;
+    }
+    .TuryaAccessories-Tray-first-oneplus{
+        margin-top: 0px;
+    }
+    .TuryaAccessories-Tray-first-two,.TuryaAccessories-Tray-first-three{
+        text-align: center;
+    }
+
+    /* Second Row Container */
+
+    .TuryaAccessories-Secondrow-Firsttwo-container{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+
+    .TuryaAccessories-Firstone-inner-container{
+        text-align: center;
+    }
+    .TuryaAccessories-secondone-inner-container{
+        text-align: center;
+        
+    }
+    .TuryaAccessories-secondone-inner-container img{
+        width: 80%;
+        height: auto;
+        
+    }
+
+
+    /* Third Row Inner First Container */
+
+    .TuryaAccessories-Thirdrow-first-one img{
+        width: 100%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrow-first-two img{
+        width: 70%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrow-second-one img{
+        width: 70%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrow-second-two img{
+        width: 100%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrow-second-three img{
+        width: 70%;
+        height: auto;
+    }
+    
+    /* Third Row Inner Second Container */
+
+    .TuryaAccessories-Thirdrows-first-one img{
+        width: 100%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrows-first-two img{
+        width: 70%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrows-second-one img{
+        width: 90%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrows-second-two img{
+        width: 85%;
+        height: auto;
+    }
+    .TuryaAccessories-Thirdrows-second-three img{
+        width: 75%;
+        height: auto;
+    }
+    
+
+
+
+
+   /* NEXT Arrow Container */
+
+    .TuryaAccessories-NextArrow-container{
+        align-items: center;
+    }
+    .TuryaAccessories-Next-Arrow-img{
+        width: 10%;
+        height: auto;
+        
+    }
+    
+}
