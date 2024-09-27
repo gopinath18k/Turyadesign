@@ -354,9 +354,9 @@ export const Tables = () => {
             {/* Next Arrow Container */}
 
 
-            <div className="TuryaAccessories-NextArrow-container">
-                <h1 className='TuryaAccessories-Next-Heading'>NEXT</h1>
-                <LazyLoadImage className='TuryaAccessories-Next-Arrow-img' src={NextArrow} alt="" loading='lazy' />
+            <div className="turyaTables-NextArrow-container">
+                <h1 className='turyaTables-Next-Heading'>NEXT</h1>
+                <LazyLoadImage className='turyaTables-Next-Arrow-img' src={NextArrow} alt="" loading='lazy' />
             </div>
 
 

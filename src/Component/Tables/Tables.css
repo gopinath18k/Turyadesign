@@ -514,7 +514,7 @@
 
 /* Next Arrow Container */
 
-.TuryaAccessories-NextArrow-container {
+.turyaTables-NextArrow-container {
     display: flex;
     flex-direction: row;
     justify-content: end;
@@ -523,12 +523,12 @@
     gap: 10px;
 }
 
-.TuryaAccessories-Next-Heading {
+.turyaTables-Next-Heading {
     font-size: 18px;
     font-weight: 400;
 }
 
-.TuryaAccessories-Next-Arrow-img {
+.turyaTables-Next-Arrow-img {
     width: 3%;
     height: auto;
     padding-bottom: 8px;
@@ -893,11 +893,11 @@
 
     /* NEXT Arrow Container */
 
-    .TuryaAccessories-NextArrow-container {
+    .turyaTables-NextArrow-container {
         align-items: center;
     }
 
-    .TuryaAccessories-Next-Arrow-img {
+    .turyaTables-Next-Arrow-img {
         width: 10%;
         height: auto;
 
