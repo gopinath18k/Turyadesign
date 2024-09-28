@@ -31,18 +31,12 @@ export const Clocks = () => {
                     <div className="turyaClocks-Clocks-first-two">
                         <LazyLoadImage src={FlowofTime} alt="" loading='lazy' />
                     </div>
-                    <div className="turyaClocks-Clocks-first-three">
-                        <LazyLoadImage src={OreoClock} alt="" loading='lazy' />
-                    </div>
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 turyaClocks-Clocks-Secondcolumn">
                     <div className="turyaClocks-Clocks-second-one">
-                        <LazyLoadImage src={TheBigClock} alt="" loading='lazy' />
+                        <LazyLoadImage src={OreoClock} alt="" loading='lazy' />
                     </div>
                     <div className="turyaClocks-Clocks-second-two">
-                        <LazyLoadImage src={TheBigClock} alt="" loading='lazy' />
-                    </div>
-                    <div className="turyaClocks-Clocks-second-three">
                         <LazyLoadImage src={TheBigClock} alt="" loading='lazy' />
                     </div>
                 </div>
