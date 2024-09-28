@@ -1,0 +1,321 @@
+/* First Row Tables Container */
+
+.turyadesign-Bedrooms-container {
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.turyaBedrooms-Cots-Firstcolumn,
+.turyaBedrooms-Cots-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaBedrooms-Cots-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.turyaBedrooms-Heading h1 {
+    text-align: start;
+    padding-left: 15px;
+}
+
+.turyaBedrooms-Cots-first-one,
+.turyaBedrooms-Cots-first-two {
+    text-align: center;
+}
+
+.turyaBedrooms-Cots-first-one {
+    margin-top: 120px;
+}
+
+.turyaBedrooms-Cots-first-one img {
+    width: 75%;
+    height: auto;
+}
+
+.turyaBedrooms-Cots-first-two img {
+    width: 75%;
+    height: auto;
+}
+
+.turyaBedrooms-Cots-second-one,
+.turyaBedrooms-Cots-second-two {
+    text-align: center;
+}
+
+.turyaBedrooms-Cots-second-one img {
+    width: 70%;
+    height: auto;
+}
+
+.turyaBedrooms-Cots-second-two img {
+    width: 70%;
+    height: auto;
+}
+
+
+
+/* Second Row WARDROBE First Container */
+.turyaBedrooms-Wardrobe1-container{
+    margin-top: 30px;
+}
+
+.turyaBedrooms-Wardrobe1-Firstcolumn,
+.turyaBedrooms-Wardrobe1-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaBedrooms-Wardrobe1-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.turyaBedrooms-Wardrobe1-first-one,
+.turyaBedrooms-Wardrobe1-first-two{
+    text-align: center;
+}
+
+.turyaBedrooms-Wardrobe1-first-one img {
+    width:65%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe1-first-two img {
+    width: 70%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe1-second-one,
+.turyaBedrooms-Wardrobe1-second-two,
+.turyaBedrooms-Wardrobe1-second-three {
+    text-align: center;
+}
+
+.turyaBedrooms-Wardrobe1-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe1-second-two img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe1-second-three img {
+    width: 60%;
+    height: auto;
+}
+
+
+
+
+
+/* Second row  Wardrobe Second Container */
+
+
+.turyaBedrooms-Wardrobe2-Firstcolumn,
+.turyaBedrooms-Wardrobe2-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaBedrooms-Wardrobe2-Firstcolumn,
+.turyaBedrooms-Wardrobe2-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.turyaBedrooms-Wardrobe2-first-one,
+.turyaBedrooms-Wardrobe2-first-two{
+    text-align: center;
+}
+
+.turyaBedrooms-Wardrobe2-first-one img {
+    width: 60%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe2-first-two img {
+    width: 60%;
+    height: auto;
+}
+
+
+.turyaBedrooms-Wardrobe2-second-one,
+.turyaBedrooms-Wardrobe2-second-two{
+    text-align: center;
+}
+
+.turyaBedrooms-Wardrobe2-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaBedrooms-Wardrobe2-second-two img {
+    width: 30%;
+    height: auto;
+}
+
+
+
+
+
+/* Next Arrow Container */
+
+.turyaBedrooms-NextArrow-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding-right: 15px;
+    gap: 10px;
+}
+
+.turyaBedrooms-Next-Heading {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.turyaBedrooms-Next-Arrow-img {
+    width: 3%;
+    height: auto;
+    padding-bottom: 8px;
+}
+
+
+
+
+/* Media Query */
+
+@media (max-width: 500px) {
+
+    .turyaBedrooms-Cots-Firstcolumn,
+    .turyaBedrooms-Cots-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    /* First Row Container */
+
+
+    .turyaBedrooms-Cots-first-one {
+        margin-top: 0px;
+    }
+    .turyaBedrooms-Cots-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaBedrooms-Cots-first-two,
+    .turyaBedrooms-Cots-first-three {
+        text-align: center;
+    }
+
+    .turyaBedrooms-Cots-first-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Cots-first-two img {
+        width: 75%;
+        height: auto;
+    }
+    .turyaBedrooms-Cots-second-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Cots-second-two img {
+        width: 70%;
+        height: auto;
+    }
+
+    
+    /* Second Row Wardrobe Inner First Container */
+
+    .turyaBedrooms-Wardrobe1-container{
+        margin-top: 20px;
+    }
+
+    .turyaBedrooms-Wardrobe1-Firstcolumn,
+    .turyaBedrooms-Wardrobe1-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 30px;
+    }
+
+    .turyaBedrooms-Wardrobe1-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe1-first-two img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe1-second-one img {
+        width: 80%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe1-second-two img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe1-second-three img {
+        width: 75%;
+        height: auto;
+    }
+
+    /* Second Row Wardrobe Second Container */
+
+    .turyaBedrooms-Wardrobe2-Firstcolumn,
+    .turyaBedrooms-Wardrobe2-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 30px;
+    }
+
+    .turyaBedrooms-Wardrobe2-first-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe2-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaBedrooms-Wardrobe2-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaBedrooms-Wardrobe2-second-two img {
+        width: 70%;
+        height: auto;
+    }
+
+
+    /* NEXT Arrow Container */
+
+    .turyaBedrooms-NextArrow-container {
+        align-items: center;
+    }
+
+    .turyaBedrooms-Next-Arrow-img {
+        width: 10%;
+        height: auto;
+
+    }
+
+}
