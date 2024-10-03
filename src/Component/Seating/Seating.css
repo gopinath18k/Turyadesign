@@ -1,0 +1,813 @@
+/* First Row First Container - CHAIRS SECTIONS */
+
+.turyadesign-Seating-container {
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.turyaSeating-Chairs1-Firstcolumn,
+.turyaSeating-Chairs1-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Chairs1-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaSeating-Chairs1-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaSeating-Heading h1 {
+    text-align: start;
+    padding-left: 15px;
+}
+
+.turyaSeating-Chairs1-first-one,
+.turyaSeating-Chairs1-first-two {
+    text-align: center;
+}
+
+.turyaSeating-Chairs1-first-one {
+    margin-top: 120px;
+}
+
+.turyaSeating-Chairs1-first-one img {
+    width: 40%;
+    height: auto;
+}
+
+.turyaSeating-Chairs1-first-two img {
+    width: 45%;
+    height: auto;
+}
+
+.turyaSeating-Chairs1-second-one,
+.turyaSeating-Chairs1-second-two,
+.turyaSeating-Chairs1-second-three {
+    text-align: center;
+}
+
+.turyaSeating-Chairs1-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaSeating-Chairs1-second-two img {
+    width: 50%;
+    height: auto;
+}
+.turyaSeating-Chairs1-second-three img {
+    width: 50%;
+    height: auto;
+}
+
+
+/* First Row Second Container - CHAIRS SECTIONS */
+
+.turyaSeating-Chairs2-Firstcolumn,
+.turyaSeating-Chairs2-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Chairs2-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaSeating-Chairs2-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.turyaSeating-Chairs2-first-one,
+.turyaSeating-Chairs2-first-two {
+    text-align: center;
+}
+
+
+
+.turyaSeating-Chairs2-first-one img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaSeating-Chairs2-first-two img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaSeating-Chairs2-second-one,
+.turyaSeating-Chairs2-second-two {
+    text-align: center;
+}
+
+.turyaSeating-Chairs2-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaSeating-Chairs2-second-two img {
+    width: 55%;
+    height: auto;
+}
+
+
+/* First Row Third Container - CHAIRS SECTIONS */
+
+.turyaSeating-Chairs3-Firstcolumn,
+.turyaSeating-Chairs3-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Chairs3-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+.turyaSeating-Chairs3-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.turyaSeating-Chairs3-first-one,
+.turyaSeating-Chairs3-first-two {
+    text-align: center;
+}
+
+
+
+.turyaSeating-Chairs3-first-one img {
+    width: 75%;
+    height: auto;
+}
+
+.turyaSeating-Chairs3-first-two img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaSeating-Chairs3-second-one,
+.turyaSeating-Chairs3-second-two,
+.turyaSeating-Chairs3-second-three {
+    text-align: center;
+}
+
+.turyaSeating-Chairs3-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaSeating-Chairs3-second-two img {
+    width: 40%;
+    height: auto;
+}
+.turyaSeating-Chairs3-second-three img {
+    width: 45%;
+    height: auto;
+}
+
+
+/* First Row Fourth Container - CHAIRS SECTIONS */
+
+.turyaSeating-Chairs4-Firstcolumn,
+.turyaSeating-Chairs4-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Chairs4-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+.turyaSeating-Chairs4-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.turyaSeating-Chairs4-first-one,
+.turyaSeating-Chairs4-first-two,
+.turyaSeating-Chairs4-first-three {
+    text-align: center;
+}
+
+
+
+.turyaSeating-Chairs4-first-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaSeating-Chairs4-first-two img {
+    width: 80%;
+    height: auto;
+}
+.turyaSeating-Chairs4-first-three img {
+    width: 45%;
+    height: auto;
+}
+
+.turyaSeating-Chairs4-second-one,
+.turyaSeating-Chairs4-second-two,
+.turyaSeating-Chairs4-second-three {
+    text-align: center;
+}
+
+.turyaSeating-Chairs4-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaSeating-Chairs4-second-two img {
+    width: 70%;
+    height: auto;
+}
+.turyaSeating-Chairs4-second-three img {
+    width: 45%;
+    height: auto;
+}
+
+
+/* First Row Fifth Container - CHAIRS SECTIONS */
+
+.turyaSeating-Chairs5-Firstcolumn,
+.turyaSeating-Chairs5-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Chairs5-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.turyaSeating-Chairs5-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+.turyaSeating-Chairs5-first-one,
+.turyaSeating-Chairs5-first-two,
+.turyaSeating-Chairs5-first-three {
+    text-align: center;
+}
+
+
+
+.turyaSeating-Chairs5-first-one img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaSeating-Chairs5-first-two img {
+    width: 50%;
+    height: auto;
+}
+.turyaSeating-Chairs5-first-three img {
+    width: 45%;
+    height: auto;
+}
+
+.turyaSeating-Chairs5-second-one,
+.turyaSeating-Chairs5-second-two,
+.turyaSeating-Chairs5-second-three {
+    text-align: center;
+}
+
+.turyaSeating-Chairs5-second-one img {
+    width: 60%;
+    height: auto;
+}
+
+.turyaSeating-Chairs5-second-two img {
+    width: 65%;
+    height: auto;
+}
+.turyaSeating-Chairs5-second-three img {
+    width: 60%;
+    height: auto;
+}
+
+
+
+/* Second Row Sofas First Container */
+
+
+.turyaSeating-Sofas1-container{
+    margin-top: 30px;
+}
+
+.turyaSeating-Sofas1-Firstcolumn,
+.turyaSeating-Sofas1-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Sofas1-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.turyaSeating-Sofas1-first-one,
+.turyaSeating-Sofas1-first-two,
+.turyaSeating-Sofas1-first-three{
+    text-align: center;
+}
+
+.turyaSeating-Sofas1-first-one img {
+    width:65%;
+    height: auto;
+}
+
+.turyaSeating-Sofas1-first-two img {
+    width: 70%;
+    height: auto;
+}
+.turyaSeating-Sofas1-first-three img {
+    width: 70%;
+    height: auto;
+}
+
+.turyaSeating-Sofas1-second-one,
+.turyaSeating-Sofas1-second-two,
+.turyaSeating-Sofas1-second-three{
+    text-align: center;
+}
+
+.turyaSeating-Sofas1-second-one img {
+    width: 70%;
+    height: auto;
+}
+
+.turyaSeating-Sofas1-second-two img {
+    width: 70%;
+    height: auto;
+}
+.turyaSeating-Sofas1-second-three img {
+    width: 70%;
+    height: auto;
+}
+
+
+
+/* Second Row Sofas Second Container */
+
+
+.turyaSeating-Sofas2-container{
+    margin-top: 30px;
+}
+
+.turyaSeating-Sofas2-Firstcolumn,
+.turyaSeating-Sofas2-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaSeating-Sofas2-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.turyaSeating-Sofas2-first-one,
+.turyaSeating-Sofas2-first-two,
+.turyaSeating-Sofas2-first-three{
+    text-align: center;
+}
+
+.turyaSeating-Sofas2-first-one img {
+    width:95%;
+    height: auto;
+}
+
+.turyaSeating-Sofas2-first-two img {
+    width: 70%;
+    height: auto;
+}
+.turyaSeating-Sofas2-first-three img {
+    width: 75%;
+    height: auto;
+}
+
+.turyaSeating-Sofas2-second-one,
+.turyaSeating-Sofas2-second-two,
+.turyaSeating-Sofas2-second-three{
+    text-align: center;
+}
+
+.turyaSeating-Sofas2-second-one img {
+    width: 70%;
+    height: auto;
+}
+
+.turyaSeating-Sofas2-second-two img {
+    width: 70%;
+    height: auto;
+}
+.turyaSeating-Sofas2-second-three img {
+    width: 70%;
+    height: auto;
+}
+
+
+
+
+/* Next Arrow Container */
+
+.turyaSeating-NextArrow-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding-right: 15px;
+    gap: 10px;
+}
+
+.turyaSeating-Next-Heading {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.turyaSeating-Next-Arrow-img {
+    width: 3%;
+    height: auto;
+    padding-bottom: 8px;
+}
+
+
+
+
+/* Media Query */
+
+@media (max-width: 500px) {
+
+    /* First Row First Container - CHAIRS SECTIONS */
+
+    .turyaSeating-Chairs1-Firstcolumn,
+    .turyaSeating-Chairs1-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaSeating-Chairs1-first-one {
+        margin-top: 0px;
+    }
+    .turyaSeating-Chairs1-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Chairs1-first-one,
+    .turyaSeating-Chairs1-first-two{
+        text-align: center;
+    }
+
+    .turyaSeating-Chairs1-first-one img {
+        width: 60%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs1-first-two img {
+        width: 60%;
+        height: auto;
+    }
+    .turyaSeating-Chairs1-second-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs1-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaSeating-Chairs1-second-three img {
+        width: 80%;
+        height: auto;
+    }
+
+
+/* First Row Second Container - CHAIRS SECTIONS */
+
+
+    .turyaSeating-Chairs2-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaSeating-Chairs2-Firstcolumn,
+    .turyaSeating-Chairs2-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaSeating-Chairs2-first-one {
+        margin-top: 0px;
+    }
+    .turyaSeating-Chairs2-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Chairs2-first-one,
+    .turyaSeating-Chairs2-first-two{
+        text-align: center;
+    }
+
+    .turyaSeating-Chairs2-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs2-first-two img {
+        width: 75%;
+        height: auto;
+    }
+    .turyaSeating-Chairs2-second-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs2-second-two img {
+        width: 70%;
+        height: auto;
+    }
+
+
+/* First Row Third Container - CHAIRS SECTIONS */
+
+
+    .turyaSeating-Chairs3-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaSeating-Chairs3-Firstcolumn,
+    .turyaSeating-Chairs3-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaSeating-Chairs3-first-one {
+        margin-top: 0px;
+    }
+    .turyaSeating-Chairs3-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Chairs3-first-one,
+    .turyaSeating-Chairs3-first-two,
+    .turyaSeating-Chairs3-first-three{
+        text-align: center;
+    }
+
+    .turyaSeating-Chairs3-first-one img {
+        width: 100%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs3-first-two img {
+        width: 55%;
+        height: auto;
+    }
+    .turyaSeating-Chairs3-second-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs3-second-two img {
+        width: 60%;
+        height: auto;
+    }
+    
+    .turyaSeating-Chairs3-second-three img {
+        width: 60%;
+        height: auto;
+    }
+    
+/* First Row Fourth Container - CHAIRS SECTIONS */
+
+
+    .turyaSeating-Chairs4-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaSeating-Chairs4-Firstcolumn,
+    .turyaSeating-Chairs4-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaSeating-Chairs4-first-one {
+        margin-top: 0px;
+    }
+    .turyaSeating-Chairs4-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Chairs4-first-one,
+    .turyaSeating-Chairs4-first-two,
+    .turyaSeating-Chairs4-first-three{
+        text-align: center;
+    }
+
+    .turyaSeating-Chairs4-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs4-first-two img {
+        width: 100%;
+        height: auto;
+    }
+    .turyaSeating-Chairs4-first-three img {
+        width: 55%;
+        height: auto;
+    }
+    .turyaSeating-Chairs4-second-one img {
+        width: 60%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs4-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    
+    .turyaSeating-Chairs4-second-three img {
+        width: 55%;
+        height: auto;
+    }
+    
+
+    
+/* First Row Fifth Container - CHAIRS SECTIONS */
+
+
+    .turyaSeating-Chairs5-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaSeating-Chairs5-Firstcolumn,
+    .turyaSeating-Chairs5-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaSeating-Chairs5-first-one {
+        margin-top: 0px;
+    }
+    .turyaSeating-Chairs5-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Chairs5-first-one,
+    .turyaSeating-Chairs5-first-two,
+    .turyaSeating-Chairs5-first-three{
+        text-align: center;
+    }
+
+    .turyaSeating-Chairs5-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs5-first-two img {
+        width: 65%;
+        height: auto;
+    }
+    .turyaSeating-Chairs5-first-three img {
+        width: 55%;
+        height: auto;
+    }
+    .turyaSeating-Chairs5-second-one img {
+        width: 60%;
+        height: auto;
+    }
+
+    .turyaSeating-Chairs5-second-two img {
+        width: 65%;
+        height: auto;
+    }
+    
+    .turyaSeating-Chairs5-second-three img {
+        width: 60%;
+        height: auto;
+    }
+    
+
+    
+    /* Second Row Sofas Inner First Container */
+
+    .turyaSeating-Sofas1-container{
+        margin-top: 20px;
+    }
+
+    .turyaSeating-Sofas1-Firstcolumn,
+    .turyaSeating-Sofas1-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Sofas1-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas1-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaSeating-Sofas1-first-three img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas1-second-one img {
+        width: 80%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas1-second-two img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas1-second-three img {
+        width: 75%;
+        height: auto;
+    }
+
+    /* Second Row Sofas Second Container */
+
+    .turyaSeating-Sofas2-container{
+        margin-top: 20px;
+    }
+
+    .turyaSeating-Sofas2-Firstcolumn,
+    .turyaSeating-Sofas2-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 30px;
+    }
+
+    .turyaSeating-Sofas2-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas2-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaSeating-Sofas2-first-three img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas2-second-one img {
+        width: 80%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas2-second-two img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaSeating-Sofas2-second-three img {
+        width: 75%;
+        height: auto;
+    }
+
+    /* NEXT Arrow Container */
+
+    .turyaSeating-NextArrow-container {
+        align-items: center;
+    }
+
+    .turyaSeating-Next-Arrow-img {
+        width: 10%;
+        height: auto;
+
+    }
+
+}
