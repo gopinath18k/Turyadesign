@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Doors } from './Component/Doors/Doors';
+// import { Doors } from './Component/Doors/Doors';
+import { Kitchen } from './Component/Kitchen/Kitchen';
 // import { Seating } from './Component/Seating/Seating';
 // import { Bedrooms } from './Component/Bedroom/Bedrooms';
 // import { Accessories } from './Component/Accessories/Accessories';
@@ -19,7 +20,8 @@ function App() {
     {/* <Clocks/> */}
     {/* <Bedrooms/> */}
     {/* <Seating/> */}
-    <Doors/>
+    {/* <Doors/> */}
+    <Kitchen/>
     </div>
   );
 }

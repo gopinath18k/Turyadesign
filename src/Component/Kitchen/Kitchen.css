@@ -1,0 +1,101 @@
+/* First Row First Container - CHAIRS SECTIONS */
+
+.turyadesign-Kitchen-container {
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.turyaKitchen-Kitchen-Firstcolumn{
+    padding: 0;
+    margin: 0;
+}
+
+.turyaKitchen-Kitchen-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaKitchen-Heading h1 {
+    text-align: start;
+    padding-left: 15px;
+}
+
+.turyaKitchen-Kitchen-first-one{
+    text-align: center;
+}
+
+.turyaKitchen-Kitchen-first-one {
+    margin-top: 100px;
+}
+
+.turyaKitchen-Kitchen-first-one img {
+    width: 70%;
+    height: auto;
+}
+
+
+
+/* Next Arrow Container */
+
+.turyaKitchen-NextArrow-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding-right: 15px;
+    gap: 10px;
+}
+
+.turyaKitchen-Next-Heading {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.turyaKitchen-Next-Arrow-img {
+    width: 3%;
+    height: auto;
+    padding-bottom: 8px;
+}
+
+
+
+
+/* Media Query */
+
+@media (max-width: 500px) {
+
+    /* First Row First Container - Doors SECTIONS */
+
+    .turyaKitchen-Kitchen-Firstcolumn{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaKitchen-Kitchen-first-one {
+        margin-top: 0px;
+    }
+    .turyaKitchen-Kitchen-first-one{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors1-first-one img {
+        width: 60%;
+        height: auto;
+    }
+
+    
+    
+    /* NEXT Arrow Container */
+
+    .turyaKitchen-NextArrow-container {
+        align-items: center;
+    }
+
+    .turyaKitchen-Next-Arrow-img {
+        width: 10%;
+        height: auto;
+
+    }
+
+}
