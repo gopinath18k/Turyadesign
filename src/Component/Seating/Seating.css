@@ -425,6 +425,31 @@
 }
 
 
+/* Third Row SWING Container */
+
+
+.turyaSeating-Swing-container{
+    margin-top: 30px;
+}
+
+.turyaSeating-Swing-Firstcolumn{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.turyaSeating-Swing-first-one{
+    text-align: center;
+    /* margin-left: 50px; */
+}
+
+.turyaSeating-Swing-first-one img {
+    width:75%;
+    height: auto;
+}
+
+
+
 
 
 /* Next Arrow Container */
@@ -797,6 +822,25 @@
         width: 75%;
         height: auto;
     }
+
+
+    /* Third Row Swing Container */
+
+    .turyaSeating-Swing-container{
+        margin-top: 0px;
+    }
+
+    .turyaSeating-Swing-Firstcolumn{
+        margin-bottom:30px;
+    }
+    
+
+    .turyaSeating-Swing-first-one img {
+        width: 65%;
+        height: auto;
+    }
+
+    
 
     /* NEXT Arrow Container */
 

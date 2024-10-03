@@ -255,6 +255,18 @@ export const Seating = () => {
                 </div>
             </div>
 
+
+
+            {/* Third Row Container - SWING SECTIONS */}
+
+            <div className="row turyaSeating-Swing-container">
+                <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 turyaSeating-Swing-Firstcolumn">
+                    <div className="turyaSeating-Swing-first-one">
+                        <LazyLoadImage src={SWING} alt="" loading='lazy' />
+                    </div>
+                </div>
+            </div>
+
            
 
             
