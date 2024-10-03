@@ -1,0 +1,760 @@
+/* First Row First Container - CHAIRS SECTIONS */
+
+.turyadesign-Doors-container {
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.turyaDoors-Doors1-Firstcolumn,
+.turyaDoors-Doors1-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+
+.turyaDoors-Doors1-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaDoors-Doors1-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaDoors-Heading h1 {
+    text-align: start;
+    padding-left: 15px;
+}
+
+.turyaDoors-Doors1-first-one,
+.turyaDoors-Doors1-first-two {
+    text-align: center;
+}
+
+.turyaDoors-Doors1-first-one {
+    margin-top: 120px;
+}
+
+.turyaDoors-Doors1-first-one img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaDoors-Doors1-first-two img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaDoors-Doors1-second-one,
+.turyaDoors-Doors1-second-two,
+.turyaDoors-Doors1-second-three {
+    text-align: center;
+}
+
+.turyaDoors-Doors1-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors1-second-two img {
+    width: 50%;
+    height: auto;
+}
+.turyaDoors-Doors1-second-three img {
+    width: 50%;
+    height: auto;
+}
+
+
+/* First Row Second Container - Doors SECTIONS */
+
+.turyaDoors-Doors2-Firstcolumn,
+.turyaDoors-Doors2-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+.turyaDoors-Doors2-Firstrow-container{
+    margin-top: 30px;
+}
+
+.turyaDoors-Doors2-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.turyaDoors-Doors2-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.turyaDoors-Doors2-first-one,
+.turyaDoors-Doors2-first-two {
+    text-align: center;
+}
+
+
+
+.turyaDoors-Doors2-first-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors2-first-two img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors2-second-one,
+.turyaDoors-Doors2-second-two {
+    text-align: center;
+}
+
+.turyaDoors-Doors2-second-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors2-second-two img {
+    width: 60%;
+    height: auto;
+}
+
+
+/* First Row Third Container - CHAIRS SECTIONS */
+
+.turyaDoors-Doors3-Firstcolumn,
+.turyaDoors-Doors3-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+.turyaDoors-Doors3-Firstrow-container{
+    margin-top: 30px;
+}
+
+
+.turyaDoors-Doors3-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+.turyaDoors-Doors3-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.turyaDoors-Doors3-first-one,
+.turyaDoors-Doors3-first-two {
+    text-align: center;
+}
+
+
+
+.turyaDoors-Doors3-first-one img {
+    width:61%;
+    height: auto;
+}
+
+.turyaDoors-Doors3-first-two img {
+    width: 61%;
+    height: auto;
+}
+
+.turyaDoors-Doors3-second-one,
+.turyaDoors-Doors3-second-two,
+.turyaDoors-Doors3-second-three {
+    text-align: center;
+}
+
+.turyaDoors-Doors3-second-one img {
+    width: 60%;
+    height: auto;
+}
+
+.turyaDoors-Doors3-second-two img {
+    width: 40%;
+    height: auto;
+}
+.turyaDoors-Doors3-second-three img {
+    width: 40%;
+    height: auto;
+}
+
+
+/* First Row Fourth Container - DOORS SECTIONS */
+
+.turyaDoors-Doors4-Firstcolumn,
+.turyaDoors-Doors4-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+.turyaDoors-Doors4-Firstrow-container{
+    margin-top: 30px;
+}
+
+.turyaDoors-Doors4-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+.turyaDoors-Doors4-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.turyaDoors-Doors4-first-one,
+.turyaDoors-Doors4-first-two,
+.turyaDoors-Doors4-first-three {
+    text-align: center;
+}
+
+
+
+.turyaDoors-Doors4-first-one img {
+    width: 48%;
+    height: auto;
+}
+
+.turyaDoors-Doors4-first-two img {
+    width: 48%;
+    height: auto;
+}
+.turyaDoors-Doors4-first-three img {
+    width: 45%;
+    height: auto;
+}
+
+.turyaDoors-Doors4-second-one,
+.turyaDoors-Doors4-second-two,
+.turyaDoors-Doors4-second-three {
+    text-align: center;
+}
+
+.turyaDoors-Doors4-second-one img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaDoors-Doors4-second-two img {
+    width: 55%;
+    height: auto;
+}
+.turyaDoors-Doors4-second-three img {
+    width: 52%;
+    height: auto;
+}
+
+
+/* First Row Fifth Container - DOORS SECTIONS */
+
+.turyaDoors-Doors5-Firstcolumn,
+.turyaDoors-Doors5-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+.turyaDoors-Doors5-Firstrow-container{
+    margin-top: 30px;
+}
+.turyaDoors-Doors5-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.turyaDoors-Doors5-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+.turyaDoors-Doors5-first-one,
+.turyaDoors-Doors5-first-two,
+.turyaDoors-Doors5-first-three {
+    text-align: center;
+}
+
+
+
+.turyaDoors-Doors5-first-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors5-first-two img {
+    width: 60%;
+    height: auto;
+}
+.turyaDoors-Doors5-first-three img {
+    width: 55%;
+    height: auto;
+}
+
+.turyaDoors-Doors5-second-one,
+.turyaDoors-Doors5-second-two,
+.turyaDoors-Doors5-second-three {
+    text-align: center;
+}
+
+.turyaDoors-Doors5-second-one img {
+    width: 60%;
+    height: auto;
+}
+
+.turyaDoors-Doors5-second-two img {
+    width: 62%;
+    height: auto;
+}
+.turyaDoors-Doors5-second-three img {
+    width: 60%;
+    height: auto;
+}
+
+
+
+/* First Row Sixth Container - DOORS SECTIONS */
+
+.turyaDoors-Doors6-Firstcolumn,
+.turyaDoors-Doors6-Secondcolumn {
+    padding: 0;
+    margin: 0;
+}
+.turyaDoors-Doors6-Firstrow-container{
+    margin-top: 30px;
+}
+.turyaDoors-Doors6-Firstcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.turyaDoors-Doors6-Secondcolumn {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+.turyaDoors-Doors6-first-one,
+.turyaDoors-Doors6-first-two,
+.turyaDoors-Doors6-first-three,
+.turyaDoors-Doors6-first-Four {
+    text-align: center;
+}
+
+
+
+.turyaDoors-Doors6-first-one img {
+    width: 50%;
+    height: auto;
+}
+
+.turyaDoors-Doors6-first-two img {
+    width: 60%;
+    height: auto;
+}
+.turyaDoors-Doors6-first-three img {
+    width: 55%;
+    height: auto;
+}
+
+ /* Last DOOR Row  Start */
+
+.turyaDoors-Doors6-first-Four img {
+    width: 55%;
+    height: auto;
+}
+
+ /* Last DOOR Row  End */
+
+.turyaDoors-Doors6-second-one,
+.turyaDoors-Doors6-second-two,
+.turyaDoors-Doors6-second-three {
+    text-align: center;
+}
+
+.turyaDoors-Doors6-second-one img {
+    width: 60%;
+    height: auto;
+}
+
+.turyaDoors-Doors6-second-two img {
+    width: 62%;
+    height: auto;
+}
+.turyaDoors-Doors6-second-three img {
+    width: 60%;
+    height: auto;
+}
+
+
+
+
+
+
+/* Next Arrow Container */
+
+.turyaDoors-NextArrow-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    padding-right: 15px;
+    gap: 10px;
+}
+
+.turyaDoors-Next-Heading {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.turyaDoors-Next-Arrow-img {
+    width: 3%;
+    height: auto;
+    padding-bottom: 8px;
+}
+
+
+
+
+/* Media Query */
+
+@media (max-width: 500px) {
+
+    /* First Row First Container - Doors SECTIONS */
+
+    .turyaDoors-Doors1-Firstcolumn,
+    .turyaDoors-Doors1-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors1-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors1-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors1-first-one,
+    .turyaDoors-Doors1-first-two{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors1-first-one img {
+        width: 60%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors1-first-two img {
+        width: 60%;
+        height: auto;
+    }
+    .turyaDoors-Doors1-second-one img {
+        width: 75%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors1-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors1-second-three img {
+        width: 70%;
+        height: auto;
+    }
+
+
+/* First Row Second Container - Doors SECTIONS */
+
+
+    .turyaDoors-Doors2-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaDoors-Doors2-Firstcolumn,
+    .turyaDoors-Doors2-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors2-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors2-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors2-first-one,
+    .turyaDoors-Doors2-first-two{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors2-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors2-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors2-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors2-second-two img {
+        width: 70%;
+        height: auto;
+    }
+
+
+/* First Row Third Container - Doors SECTIONS */
+
+
+    .turyaDoors-Doors3-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaDoors-Doors3-Firstcolumn,
+    .turyaDoors-Doors3-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors3-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors3-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors3-first-one,
+    .turyaDoors-Doors3-first-two,
+    .turyaDoors-Doors3-first-three{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors3-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors3-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors3-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors3-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    
+    .turyaDoors-Doors3-second-three img {
+        width: 70%;
+        height: auto;
+    }
+    
+/* First Row Fourth Container - DOORS SECTIONS */
+
+
+    .turyaDoors-Doors4-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaDoors-Doors4-Firstcolumn,
+    .turyaDoors-Doors4-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors4-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors4-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors4-first-one,
+    .turyaDoors-Doors4-first-two,
+    .turyaDoors-Doors4-first-three{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors4-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors4-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors4-first-three img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors4-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors4-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    
+    .turyaDoors-Doors4-second-three img {
+        width: 70%;
+        height: auto;
+    }
+    
+
+    
+/* First Row Fifth Container - DOORS SECTIONS */
+
+
+    .turyaDoors-Doors5-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaDoors-Doors5-Firstcolumn,
+    .turyaDoors-Doors5-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors5-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors5-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors5-first-one,
+    .turyaDoors-Doors5-first-two,
+    .turyaDoors-Doors5-first-three{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors5-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors5-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors5-first-three img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors5-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors5-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    
+    .turyaDoors-Doors5-second-three img {
+        width: 70%;
+        height: auto;
+    }
+    
+/* First Row SIXTH Container - DOORS SECTIONS */
+
+
+    .turyaDoors-Doors6-Firstrow-container{
+        margin-top: 50px;
+    }
+
+    .turyaDoors-Doors6-Firstcolumn,
+    .turyaDoors-Doors6-Secondcolumn {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .turyaDoors-Doors6-first-one {
+        margin-top: 0px;
+    }
+    .turyaDoors-Doors6-Secondcolumn  {
+        margin-top: 30px;
+    }
+
+    .turyaDoors-Doors6-first-one,
+    .turyaDoors-Doors6-first-two,
+    .turyaDoors-Doors6-first-three{
+        text-align: center;
+    }
+
+    .turyaDoors-Doors6-first-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors6-first-two img {
+        width: 70%;
+        height: auto;
+    }
+    .turyaDoors-Doors6-first-three img {
+        width: 70%;
+        height: auto;
+    }
+
+    /* Last DOOR Row  Start */
+
+    .turyaDoors-Doors6-first-Four img {
+        width: 65%;
+        height: auto;
+    }
+    /* Last DOOR Row  End*/
+
+    .turyaDoors-Doors6-second-one img {
+        width: 70%;
+        height: auto;
+    }
+
+    .turyaDoors-Doors6-second-two img {
+        width: 70%;
+        height: auto;
+    }
+    
+    .turyaDoors-Doors6-second-three img {
+        width: 70%;
+        height: auto;
+    }
+    
+
+    
+    
+    /* NEXT Arrow Container */
+
+    .turyaDoors-NextArrow-container {
+        align-items: center;
+    }
+
+    .turyaDoors-Next-Arrow-img {
+        width: 10%;
+        height: auto;
+
+    }
+
+}
